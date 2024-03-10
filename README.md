@@ -45,5 +45,7 @@ Use scikit-learn's confusion_matrix to compute the confusion matrix based on the
 Usage:
 Dataset from Kaggle Hand Gesture.
 Used Jupiter Notebook for Python Coding.
-##Techniques:
+
+
+Techniques:
 CNN model is implemented in this project.
